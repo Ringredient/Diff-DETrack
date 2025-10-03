@@ -1,0 +1,8 @@
+__pycache__/
+.idea/
+desktop.ini
+Thumbs.db
+
+checkpoints/
+data/
+logs/
