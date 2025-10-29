@@ -4,5 +4,6 @@ Research code for end-to-end multi-task particle tracking, with ongoing updates.
 ## Features
 - End-to-end multi-task framework
 - Diffusion-based detection head
-- Deformable DETR detection head
-- ResNet backbone
+- Deformable-transformer detection head
+- Transformer-based matching head
+
